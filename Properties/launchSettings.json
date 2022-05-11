@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CodeAssessment": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
